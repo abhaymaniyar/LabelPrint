@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Label Print</string>
+    <string name="username_hint">e.g. John.Doe, johndoe etc.</string>
+    <string name="pass_hint">Please enter your login password</string>
+    <string name="pass_textView">Password</string>
+    <string name="username_textView">Username</string>
+    <string name="login">Login</string>
+</resources>
